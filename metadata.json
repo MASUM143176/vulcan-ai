@@ -1,0 +1,8 @@
+{
+  "name": "VULCAN Platform",
+  "description": "Multi-persona AI platform with Roast, Companion, Mentor, and Scientist modes.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
